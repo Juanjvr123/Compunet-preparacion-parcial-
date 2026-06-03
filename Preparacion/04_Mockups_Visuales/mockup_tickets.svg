@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f5f7fa"/>
+  <rect x="0" y="0" width="1200" height="72" fill="#37474f"/>
+  <text x="48" y="45" font-family="Arial" font-size="26" fill="#ffffff" font-weight="700">Mesa de ayuda</text>
+  <rect x="48" y="112" width="250" height="140" rx="8" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="78" y="150" font-family="Arial" font-size="16" fill="#607d8b">Tickets abiertos</text>
+  <text x="78" y="210" font-family="Arial" font-size="48" fill="#172b4d" font-weight="700">12</text>
+  <rect x="326" y="112" width="250" height="140" rx="8" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="356" y="150" font-family="Arial" font-size="16" fill="#607d8b">En proceso</text>
+  <text x="356" y="210" font-family="Arial" font-size="48" fill="#172b4d" font-weight="700">5</text>
+  <rect x="604" y="112" width="250" height="140" rx="8" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="634" y="150" font-family="Arial" font-size="16" fill="#607d8b">Cerrados</text>
+  <text x="634" y="210" font-family="Arial" font-size="48" fill="#172b4d" font-weight="700">34</text>
+  <rect x="902" y="145" width="180" height="44" rx="6" fill="#1976d2"/>
+  <text x="944" y="173" font-family="Arial" font-size="15" fill="#ffffff">Nuevo ticket</text>
+  <rect x="48" y="292" width="1104" height="360" rx="8" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="80" y="336" font-family="Arial" font-size="24" fill="#172b4d" font-weight="700">Gestion de solicitudes</text>
+  <rect x="80" y="368" width="1040" height="44" fill="#eceff1"/>
+  <text x="100" y="396" font-family="Arial" font-size="14" fill="#172b4d" font-weight="700">Asunto</text>
+  <text x="330" y="396" font-family="Arial" font-size="14" fill="#172b4d" font-weight="700">Prioridad</text>
+  <text x="510" y="396" font-family="Arial" font-size="14" fill="#172b4d" font-weight="700">Estado</text>
+  <text x="700" y="396" font-family="Arial" font-size="14" fill="#172b4d" font-weight="700">Tecnico</text>
+  <text x="900" y="396" font-family="Arial" font-size="14" fill="#172b4d" font-weight="700">Acciones</text>
+  <line x1="80" y1="456" x2="1120" y2="456" stroke="#d8dee6"/>
+  <text x="100" y="444" font-family="Arial" font-size="15" fill="#172b4d">Error al iniciar sesion</text>
+  <rect x="330" y="424" width="70" height="26" rx="13" fill="#ef6c00"/>
+  <text x="348" y="442" font-family="Arial" font-size="12" fill="#ffffff">Alta</text>
+  <rect x="510" y="424" width="92" height="26" rx="13" fill="#1976d2"/>
+  <text x="527" y="442" font-family="Arial" font-size="12" fill="#ffffff">Proceso</text>
+  <text x="700" y="444" font-family="Arial" font-size="15" fill="#172b4d">Soporte TI</text>
+  <rect x="900" y="422" width="72" height="30" rx="5" fill="#ffffff" stroke="#1976d2"/>
+  <text x="918" y="442" font-family="Arial" font-size="13" fill="#1976d2">Editar</text>
+  <rect x="990" y="422" width="78" height="30" rx="5" fill="#ffffff" stroke="#2e7d32"/>
+  <text x="1008" y="442" font-family="Arial" font-size="13" fill="#2e7d32">Cerrar</text>
+</svg>
+

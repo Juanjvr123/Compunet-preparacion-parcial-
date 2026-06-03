@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f5f7fb"/>
+  <rect x="0" y="0" width="1200" height="74" fill="#ffffff"/>
+  <line x1="0" y1="74" x2="1200" y2="74" stroke="#e5e7eb"/>
+  <rect x="44" y="19" width="120" height="36" rx="8" fill="#e8f0fe"/>
+  <text x="70" y="43" font-family="Arial" font-size="18" fill="#123b7a" font-weight="700">ICESI</text>
+  <text x="196" y="43" font-family="Arial" font-size="20" fill="#172b4d" font-weight="700">Proyectos del Sistema Manejador de Encuestas</text>
+  <text x="890" y="43" font-family="Arial" font-size="15" fill="#607d8b">usuario@icesi.edu.co</text>
+  <rect x="1070" y="22" width="84" height="32" rx="6" fill="#ffffff" stroke="#cfd8dc"/>
+  <text x="1095" y="43" font-family="Arial" font-size="14" fill="#263238">Salir</text>
+  <text x="64" y="142" font-family="Arial" font-size="42" fill="#172b4d" font-weight="900">Proyectos disponibles</text>
+  <text x="64" y="178" font-family="Arial" font-size="18" fill="#607d8b">Elige uno de los proyectos disponibles para acceder a su informacion y continuar con el proceso.</text>
+  <rect x="918" y="120" width="210" height="48" rx="8" fill="#1976d2"/>
+  <text x="963" y="151" font-family="Arial" font-size="15" fill="#ffffff" font-weight="700">Crear nuevo proyecto</text>
+  <rect x="64" y="228" width="320" height="390" rx="14" fill="#ffffff" stroke="#e1e7ef"/>
+  <rect x="64" y="228" width="320" height="170" rx="14" fill="#f1f5fb"/>
+  <rect x="134" y="282" width="180" height="62" rx="10" fill="#ffffff" stroke="#cdd7e3"/>
+  <text x="171" y="320" font-family="Arial" font-size="20" fill="#123b7a" font-weight="700">Logo proyecto</text>
+  <text x="92" y="438" font-family="Arial" font-size="22" fill="#172b4d" font-weight="800">Comfandi - Polis - PSPV</text>
+  <text x="92" y="470" font-family="Arial" font-size="15" fill="#607d8b">Proyecto para trabajar las encuestas</text>
+  <text x="92" y="494" font-family="Arial" font-size="15" fill="#607d8b">con comfandi PSPV...</text>
+  <text x="92" y="574" font-family="Arial" font-size="16" fill="#1976d2" font-weight="700">Estado: A</text>
+  <circle cx="342" cy="436" r="18" fill="#f4f6fb"/>
+  <text x="337" y="443" font-family="Arial" font-size="22" fill="#263238">⋮</text>
+  <rect x="440" y="228" width="320" height="390" rx="14" fill="#ffffff" stroke="#e1e7ef"/>
+  <rect x="440" y="228" width="320" height="170" rx="14" fill="#f1f5fb"/>
+  <rect x="516" y="276" width="168" height="74" rx="10" fill="#ffffff" stroke="#cdd7e3"/>
+  <text x="552" y="320" font-family="Arial" font-size="20" fill="#123b7a" font-weight="700">Imagen API</text>
+  <text x="468" y="438" font-family="Arial" font-size="22" fill="#172b4d" font-weight="800">Demos</text>
+  <text x="468" y="470" font-family="Arial" font-size="15" fill="#607d8b">Descripcion para proyectos demos.</text>
+  <text x="468" y="574" font-family="Arial" font-size="16" fill="#1976d2" font-weight="700">Estado: A</text>
+  <circle cx="718" cy="436" r="18" fill="#f4f6fb"/>
+  <text x="713" y="443" font-family="Arial" font-size="22" fill="#263238">⋮</text>
+  <rect x="816" y="228" width="320" height="390" rx="14" fill="#ffffff" stroke="#e1e7ef"/>
+  <rect x="816" y="228" width="320" height="170" rx="14" fill="#f1f5fb"/>
+  <rect x="900" y="276" width="152" height="74" rx="10" fill="#ffffff" stroke="#cdd7e3"/>
+  <text x="934" y="320" font-family="Arial" font-size="20" fill="#123b7a" font-weight="700">Survey</text>
+  <text x="844" y="438" font-family="Arial" font-size="22" fill="#172b4d" font-weight="800">Mapeo de actores</text>
+  <text x="844" y="470" font-family="Arial" font-size="15" fill="#607d8b">Instrumento de investigacion</text>
+  <text x="844" y="494" font-family="Arial" font-size="15" fill="#607d8b">desarrollado por la Universidad...</text>
+  <text x="844" y="574" font-family="Arial" font-size="16" fill="#1976d2" font-weight="700">Estado: A</text>
+  <circle cx="1094" cy="436" r="18" fill="#f4f6fb"/>
+  <text x="1089" y="443" font-family="Arial" font-size="22" fill="#263238">⋮</text>
+  <rect x="824" y="460" width="180" height="116" rx="8" fill="#ffffff" stroke="#cfd8dc"/>
+  <text x="850" y="492" font-family="Arial" font-size="14" fill="#263238">Ver encuestas</text>
+  <text x="850" y="526" font-family="Arial" font-size="14" fill="#263238">Editar proyecto</text>
+  <text x="850" y="560" font-family="Arial" font-size="14" fill="#263238">Crear entrevistas</text>
+</svg>
+

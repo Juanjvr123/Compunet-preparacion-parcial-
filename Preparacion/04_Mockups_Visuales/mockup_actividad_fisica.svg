@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f4f6f8"/>
+  <rect x="0" y="0" width="1200" height="72" fill="#1565c0"/>
+  <text x="48" y="45" font-family="Arial" font-size="26" fill="#ffffff" font-weight="700">Icesi Activa</text>
+  <text x="260" y="45" font-family="Arial" font-size="16" fill="#e3f2fd">Dashboard</text>
+  <text x="370" y="45" font-family="Arial" font-size="16" fill="#e3f2fd">Rutinas</text>
+  <text x="465" y="45" font-family="Arial" font-size="16" fill="#e3f2fd">Progreso</text>
+  <text x="570" y="45" font-family="Arial" font-size="16" fill="#e3f2fd">Eventos</text>
+  <rect x="48" y="112" width="520" height="160" rx="10" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="80" y="155" font-family="Arial" font-size="30" fill="#172b4d" font-weight="700">Resumen de rendimiento</text>
+  <text x="80" y="190" font-family="Arial" font-size="17" fill="#5e6c84">Progreso semanal y metricas personales</text>
+  <rect x="80" y="220" width="140" height="34" rx="6" fill="#1565c0"/>
+  <text x="103" y="243" font-family="Arial" font-size="15" fill="#ffffff">Descargar PDF</text>
+  <rect x="600" y="112" width="252" height="160" rx="10" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="628" y="150" font-family="Arial" font-size="16" fill="#5e6c84">Tiempo semanal</text>
+  <text x="628" y="210" font-family="Arial" font-size="44" fill="#172b4d" font-weight="700">245 min</text>
+  <rect x="884" y="112" width="252" height="160" rx="10" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="912" y="150" font-family="Arial" font-size="16" fill="#5e6c84">Esfuerzo promedio</text>
+  <text x="912" y="210" font-family="Arial" font-size="44" fill="#172b4d" font-weight="700">7.8</text>
+  <rect x="48" y="304" width="720" height="360" rx="10" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="80" y="348" font-family="Arial" font-size="22" fill="#172b4d" font-weight="700">Grafico de progreso semanal</text>
+  <line x1="100" y1="590" x2="700" y2="590" stroke="#c1c7d0"/>
+  <line x1="100" y1="390" x2="100" y2="590" stroke="#c1c7d0"/>
+  <rect x="140" y="500" width="48" height="90" fill="#42a5f5"/>
+  <rect x="225" y="460" width="48" height="130" fill="#66bb6a"/>
+  <rect x="310" y="430" width="48" height="160" fill="#ffb300"/>
+  <rect x="395" y="480" width="48" height="110" fill="#ef5350"/>
+  <rect x="480" y="410" width="48" height="180" fill="#26a69a"/>
+  <rect x="565" y="450" width="48" height="140" fill="#7e57c2"/>
+  <text x="145" y="622" font-family="Arial" font-size="14" fill="#5e6c84">Lun</text>
+  <text x="230" y="622" font-family="Arial" font-size="14" fill="#5e6c84">Mar</text>
+  <text x="315" y="622" font-family="Arial" font-size="14" fill="#5e6c84">Mie</text>
+  <text x="400" y="622" font-family="Arial" font-size="14" fill="#5e6c84">Jue</text>
+  <text x="485" y="622" font-family="Arial" font-size="14" fill="#5e6c84">Vie</text>
+  <text x="570" y="622" font-family="Arial" font-size="14" fill="#5e6c84">Sab</text>
+  <rect x="800" y="304" width="336" height="360" rx="10" fill="#ffffff" stroke="#d8dee6"/>
+  <text x="828" y="348" font-family="Arial" font-size="22" fill="#172b4d" font-weight="700">Rutina actual</text>
+  <rect x="828" y="382" width="280" height="58" rx="8" fill="#f8fafc" stroke="#d8dee6"/>
+  <text x="850" y="417" font-family="Arial" font-size="16" fill="#172b4d">Fuerza tren superior</text>
+  <rect x="828" y="456" width="280" height="58" rx="8" fill="#f8fafc" stroke="#d8dee6"/>
+  <text x="850" y="491" font-family="Arial" font-size="16" fill="#172b4d">Cardio moderado</text>
+  <rect x="828" y="530" width="280" height="58" rx="8" fill="#f8fafc" stroke="#d8dee6"/>
+  <text x="850" y="565" font-family="Arial" font-size="16" fill="#172b4d">Movilidad y estiramiento</text>
+</svg>
+

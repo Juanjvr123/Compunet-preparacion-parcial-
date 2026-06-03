@@ -1,0 +1,17 @@
+/* Reinicio minimo para evitar margenes inesperados. */
+* {
+  box-sizing: border-box;
+}
+
+/* Fuente base limpia para la aplicacion. */
+body {
+  margin: 0;
+  min-width: 320px;
+  font-family: Inter, Roboto, Arial, sans-serif;
+}
+
+/* Evita que imagenes se desborden. */
+img {
+  max-width: 100%;
+}
+
